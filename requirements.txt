@@ -47,7 +47,7 @@ tomlkit==0.5.11
 tqdm==4.48.2
 typing-extensions==3.7.4.3
 ujson==1.35
-urllib3==1.25.10
+urllib3==1.26.5
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==0.57.0
