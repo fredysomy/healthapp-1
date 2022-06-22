@@ -17,7 +17,7 @@ Jinja2==2.11.2
 Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.3.1
-numpy==1.19.1
+numpy==1.22.0
 oauthlib==3.1.0
 Pillow==7.2.0
 pyflakes==2.1.1
